@@ -1,0 +1,4 @@
+[submodule "AIR-sc/golemme"]
+	path = AIR-sc/golemme
+	url = git@github.com:AIR-sc/golemme.git
+	branch = main
